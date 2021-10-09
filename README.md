@@ -1,4 +1,4 @@
-# issabel Monitor Extension Status
+# issabel Extension Status Monitoring
 Simple Monitoring issabel Extensions Status
 
 <img src="ZarbinNetwork.JPG">
