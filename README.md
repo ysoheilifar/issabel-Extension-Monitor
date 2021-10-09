@@ -4,8 +4,8 @@ Simple Monitoring issabel Extensions Status
 <img src="ZarbinNetwork.JPG">
 
 1. Copy all downloaded file in `/var/www/html` directory on issabel
-2. 2. Set `775` or `777` permission to `zarbinMonitor.php` and `zarbinMonitor_Main.php`
-3. 3. Create AMI User on `/etc/asterisk/manager_custom.conf` 
+2. Set `775` or `777` permission to `zarbinMonitor.php` and `zarbinMonitor_Main.php`
+3. Create AMI User on `/etc/asterisk/manager_custom.conf` 
 > UserName is : test
 
 > Secret is : 123456
